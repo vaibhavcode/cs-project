@@ -56,7 +56,7 @@ This project implements a real-time attendance logging system using computer vis
 4. **Run the application**:
    Execute the attendance logging system:
    ```bash
-   python viewer.py
+   python detector.py
    ```
 
 ---
