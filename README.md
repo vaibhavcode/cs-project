@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgements
 
-This project utilizes OpenCV for real-time computer vision and facial recognition. Special thanks to the OpenCV community for their invaluable resources.
+I would like to express my sincere gratitude to Mrs. Deepika Pareek for her invaluable support throughout our project.
