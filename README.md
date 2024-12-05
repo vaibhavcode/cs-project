@@ -1,4 +1,4 @@
-# Computer Vision-Based Real-Time Attendance Logger
+# Computer Vision Based Realtime Attendance Logger
 
 This project implements a real-time attendance logging system using computer vision. It leverages facial recognition to track attendance and log it automatically from video feed.
 
